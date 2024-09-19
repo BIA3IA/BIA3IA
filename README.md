@@ -1,14 +1,6 @@
 <div align="center">
   <img src="https://webstockreview.net/images/divider-clipart-purple-5.png" alt="Purple decorative divider" height="80"><br>
   <img src="https://i.ibb.co/51gnSCQ/cat-ezgif-com-crop.gif" alt="Cat typing on keyboard animated gif" width="250"/><br>
-  <!--
-  <a href="https://site" target="_blank">
-    <img src="https://img.shields.io/website?up_color=purple&up_message=online&url=https%3A%2F%2sito.it" alt="Website badge"/>
-  </a> -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://it.linkedin.com/in/bianca-roberta-ianosel" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge"/>
-  </a>
 </div>
 
 
