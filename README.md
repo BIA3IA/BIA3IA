@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://webstockreview.net/images/divider-clipart-purple-5.png" alt="Purple decorative divider" height="80"><br>
   <img src="https://i.ibb.co/51gnSCQ/cat-ezgif-com-crop.gif" alt="Cat typing on keyboard animated gif" width="250"/><br>
+  <!--
   <a href="https://site" target="_blank">
     <img src="https://img.shields.io/website?up_color=purple&up_message=online&url=https%3A%2F%2sito.it" alt="Website badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Questo aggiunge lo spazio tra i due badge -->
+  </a> -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://it.linkedin.com/in/bianca-roberta-ianosel" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge"/>
   </a>
@@ -78,5 +79,9 @@
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=30&pause=1000&color=4b0296&width=270&height=50&lines=Snake+of+Commits" alt="Stats text animation"/>
   </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
